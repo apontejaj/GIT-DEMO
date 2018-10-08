@@ -6,10 +6,7 @@ public class Main {
 		
 		System.out.println("Amilcar sucks");
 		System.out.println("Amilcar sucks");
-		System.out.println("Amilcar sucks");
-		System.out.println("Amilcar sucks");
-		System.out.println("Amilcar sucks");
-		System.out.println("Amilcar sucks");
+		
 		
 	}
 
